@@ -4,6 +4,7 @@
 
 ## Description
 This is a small 2D game project where the player navigates a map, collects all collectibles, and reaches the exit.  
+![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx4cTlhOWl0ZXZrMWw0ZHAweXYyZGpxcDB6N2tqamwzMmFmdDF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPoOmkAueYAvYicxyu/giphy.gif)
 
 ### Compilation
 ```bash
